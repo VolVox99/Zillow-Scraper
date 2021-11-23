@@ -37,7 +37,7 @@ python main.py https://www.zillow.com/westchester-county-ny/
 
 ## -ownr
 
-This flag is optional.Only listings for sale by the owner will be grabbed. Defaults to False if not
+This flag is optional. Only listings for sale by the owner will be grabbed. Defaults to False if not
 present
 example:
 python main.py https://www.zillow.com/westchester-county-ny/-ownr
