@@ -1,4 +1,4 @@
-"# Zillow-Scraper" 
+# Zillow-Scraper
 # Instructions
 
 All terminal commands are highlighted.
