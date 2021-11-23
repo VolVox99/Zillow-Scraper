@@ -1,0 +1,21 @@
+{
+	"searchQueryState": {
+		"pagination": {},
+		"mapBounds": null,
+		"isMapVisible": false,
+		"filterState": {
+			"sortSelection": { "value": "globalrelevanceex" },
+			"beds": { "min": 3 },
+			"isAllHomes": { "value": true },
+			"isCondo": { "value": false },
+			"isApartmentOrCondo": { "value": false },
+			"isLotLand": { "value": false },
+			"isApartment": { "value": false },
+			"isMultiFamily": { "value": false },
+			"isManufactured": { "value": false }
+		},
+		"isListVisible": true
+	},
+	"wants": { "cat1": ["listResults"], "cat2": ["total"] },
+	"requestId": "5"
+}

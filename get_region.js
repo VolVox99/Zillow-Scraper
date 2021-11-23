@@ -1,0 +1,1 @@
+return window.map_coords_return ?? {}
